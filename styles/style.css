@@ -1,0 +1,18 @@
+html {
+    font-size: 14px;
+    font-family: 'Philosopher', sans-serif;
+    background-color: #F4AB2E;
+}
+
+h1 {
+    font-size: 36px;
+    color: darkviolet;
+    text-align: left;
+}
+
+p, li {
+    font-size: 14px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
